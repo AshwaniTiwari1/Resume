@@ -1,7 +1,6 @@
+#Geogo_Assignment_1
 
-#Geogo_Assignment_1 (Resume)
-
-HTML and CSS using <br>
+Using HTML and CSS Creating a Resume <br>
 
 https://ashwanitiwari1.github.io/Resume/ 
 
